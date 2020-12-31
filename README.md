@@ -67,7 +67,7 @@ Please checkout our [contributing guide](CONTRIBUTING.md) on ways to contribute 
 
 ## Quickstart
 
-Full documentation at [OhMyForm.com].
+Full documentation at [https://ohmyform.com/docs/](https://ohmyform.com/docs/).
 
 1. `git clone https://github.com/treepay/ohmyform.git`
 1. Modify anything you want to in the source.
