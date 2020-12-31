@@ -67,9 +67,16 @@ Please checkout our [contributing guide](CONTRIBUTING.md) on ways to contribute 
 
 ## Quickstart
 
-Follow documentation hosted on [OhMyForm.com](http://ohmyform.com/docs/install/) it will be the main and hopefully only location to obtain the up to date documentation.
+Full documentation at [OhMyForm.com].
 
-if you pull the repository do not forget to execute: `git submodule update --init`
+1. `git clone https://github.com/treepay/ohmyform.git`
+1. Modify anything you want to in the source.
+1.  `cd ohmyform`
+1. `git submodule update --init`
+1. `docker-compose up -d`
+1. `docker-compose ps`
+
+You should at this point have a working instance to play with at `http://localhost:5000/` within moments.
 
 ## Where to get help
 
